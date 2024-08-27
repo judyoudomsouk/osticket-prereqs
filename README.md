@@ -38,7 +38,7 @@ Downloaded and installed prerequisite software for osTicket.
 <img src="https://i.imgur.com/AULihAC.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configuring the settings in IIS Manager.
+Configuring the settings in IIS Manager in remote desktop connection.
 </p>
 <br />
 
